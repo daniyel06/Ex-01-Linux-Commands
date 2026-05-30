@@ -1,6 +1,6 @@
 # Ex-01-Linux-Commands
-Name:  Rajalakshmi R
-Reg No : 212223110037
+Name:  Daniyel Antony Raj SD
+Reg No : 212224220018
 
 ## Aim:
 
